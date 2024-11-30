@@ -4,12 +4,12 @@
 }
 
 ul {
-  width: fit-content;
+  width: 100%;
   list-style: none;
 }
 
 ul.branch {
-  margin-left: 50%;
+  margin-left: 10%;
 }
 
 ul.branch li div.container {
